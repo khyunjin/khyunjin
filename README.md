@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:8cb369,100:f4e285&height=450&section=header&text=HYUNJIN&animation=twinkling&fontSize=45&fontColor=ffffff&fontAlign=80&fontAlignY=45)
-<p><br>
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:8cb369,100:f4e285&height=300&section=header&text=HYUNJIN&animation=twinkling&fontSize=45&fontColor=ffffff&fontAlign=85&fontAlignY=40)
+<p>
 <h3 align="left">Hi, I'm HyunJin.👋</h3>
 <br><br>
 <h3 align="left">📖 Tech Stack</h3>
