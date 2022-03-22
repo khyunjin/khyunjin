@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:ffb5a7,100:fec89a&height=450&section=header&text=HYUNJIN&animation=twinkling&fontSize=45&fontColor=ffffff&fontAlignY=45)
+
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:ffb5a7,100:fec89a&height=200&section=footer)
 <!--
 **khyunjin/khyunjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
