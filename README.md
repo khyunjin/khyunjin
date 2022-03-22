@@ -17,7 +17,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyunjin&show_icons=true&theme=gruvbox&bg_color=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyunjin&theme=gruvbox&bg_color=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyunjin&theme=gruvbox&bg_color=white&hide=css&card_width=495)
     <br>
 </p>
 <br>
