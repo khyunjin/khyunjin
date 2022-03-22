@@ -2,7 +2,7 @@
 <p>
 <h3 align="left">Hi, I'm HyunJin.👋</h3>
 <br>
-<h3 align="left">📖 Language Tool</h3>
+<h3 align="left">📖 Language  Tool</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
