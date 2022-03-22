@@ -14,5 +14,6 @@
 <br>
 <h3 align="left">💻 My Github Stats</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyunjin)](https://github.com/khyunjin/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyunjin)](https://github.com/khyunjin/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyunjin)](https://github.com/khyunjin/github-readme-stats)
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:ffb5a7,100:fec89a&height=200&section=footer)
