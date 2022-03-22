@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:8cb369,100:f4e285&height=300&section=header&text=HYUNJIN&animation=twinkling&fontSize=45&fontColor=ffffff&fontAlign=85&fontAlignY=40)
 <p>
 <h3 align="left">Hi, I'm HyunJin.👋</h3>
-<br><br>
+<br>
 <h3 align="left">📖 Tech Stack</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
